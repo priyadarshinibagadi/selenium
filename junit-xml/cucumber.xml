@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failed="0" tests="1">
+<testcase classname="deals link feature" name="new deal link scenario" time="0">
+<system-out><![CDATA[Given user already in login page......................................................skipped
+When title of login page free crm......................................................skipped
+Then user enters username and password...................................................skipped
+Then user click login button........................................................skipped
+Then user is on home page..........................................................skipped
+Then user moves to the new deals......................................................skipped
+Then user enters new deal details......................................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
